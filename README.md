@@ -35,8 +35,8 @@ The XGBoost forecasting model was evaluated on actual drawal data, yielding the 
 - MAE: 23.87  
 - MAPE: 5.68%
 
+### Predicted Data
 ![download](https://github.com/user-attachments/assets/a8c58edd-fa9d-4a5b-857c-147c270ef956)
-
 
 ---
 
